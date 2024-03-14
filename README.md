@@ -1,3 +1,4 @@
+<img src="images/logo_stargazers_bug.svg" alt="Stargazers Logo" styles="width:300px;">
 ![StarGazers Logo](images/logo_stargazers_bug.svg)
 # Stargazers
 
